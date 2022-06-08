@@ -6,7 +6,6 @@ pragma solidity ^0.6.0;
 import "./SafeMath.sol";
 import "./CoinFlip.sol";
 
-
 contract Attack {
     using SafeMath for uint256;
 
